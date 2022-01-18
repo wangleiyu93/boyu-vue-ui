@@ -1,24 +1,16 @@
-# boyu-vue-ui
+# 需求
+## 1，组件支持按需加载或整体引入
+## 2，支持主题切换
+## 3，支持国际化
+## 4，优化打包体积和编译速度
+## 5，支持ts
+## 6，发布到npm
+## 7, 维护到github的wangleiyu93账号
 
-## Project setup
-```
-yarn install
-```
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+# 问题
+## 1,组件按需引入时自动引入组件样式
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# 工作
+## 1，改进card，参考elementui的card组件
+## 2，实现自定义输入框，支持v-module

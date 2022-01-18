@@ -1,0 +1,15 @@
+.yu-card{
+    width: 200px;
+    padding: 20px;
+    border-radius: 6px; 
+    background-color: #fff;
+}
+.yu-card-boxshadow{
+    box-shadow: 0 0 20px #999;
+}
+.yu-card-hover-boxshadow{
+    transition: all 0.5s;
+    &:hover{
+        box-shadow: 0 0 20px #999;
+    }
+}
