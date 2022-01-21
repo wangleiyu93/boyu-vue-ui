@@ -1,12 +1,12 @@
 import card from './card/index'
 
-const components=[
+const components = [
     card
 ]
 
-components.install=(vue)=>{
+components.install = (vue) => {
     components.forEach(component => {
-        vue.component(component.name,component)
+        vue.component(component.name, component)
     });
 }
 

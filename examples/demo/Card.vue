@@ -2,6 +2,7 @@
   <div>
     <yu-card header='掌声' body-style='margin-bottom:10px'/>
     <yu-card shadow='hover' body-style='margin-bottom:10px'>
+      <div>我在头部之下</div>
       <div slot='header'>我是头部</div>
     </yu-card>
     <yu-card body-style='padding:0;margin-bottom:10px'>

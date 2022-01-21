@@ -14,3 +14,8 @@
 # 工作
 ## 1，改进card，参考elementui的card组件
 ## 2，实现自定义输入框，支持v-module
+## 3，实现字体图标组件icon
+## 4，实现tabs标签页组件
+## 5，Tooltip 文字提示
+## 6，Carousel 走马灯
+## 7, Message 消息提示
